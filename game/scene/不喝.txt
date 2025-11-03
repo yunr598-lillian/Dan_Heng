@@ -1,0 +1,5 @@
+
+:水是温热的，温度估计是精心调配过，握在手心也是暖的。;
+:你没有再说话，他也没有，你们之间向来如此。;
+changeFigure:none -right;
+changeScene:房间安静.txt;

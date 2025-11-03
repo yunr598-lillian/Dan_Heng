@@ -1,0 +1,9 @@
+Game_name:danhenggame;
+Game_key:9fb3debae013c08;
+Title_img:丹恒中秋节.pic_hd.jpg;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
+Default_Language:zh_CN;
+Game_Logo:丹恒中秋节.pic_hd.jpg;
+Package_name:danheng.ganme;
+Description:丹恒乙向文游;

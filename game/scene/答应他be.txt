@@ -1,0 +1,12 @@
+
+{name}:“……”;
+{name}:“好。”;
+changeBg:none;
+changeFigure:none;
+intro:几天后，离婚协议书被你的律师拟定好发给丹恒的时候，他出乎意料地平静，几乎没什么犹豫就签下了自己的名字。|一张纸，轻轻薄薄，甚至没什么重量，却埋葬了有关青春的所有悸动，了断了你和他所有的关系。|从此分道扬镳，再不回头。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+{name}:“丹恒，你自由了。”;
+:而你永远不会知道，同一天，早已废弃的个人邮箱里多了两条信息：;
+setTextbox:hide;
+changeBg:24631761924687_.pic.jpg;
+changeBg:丹恒bec'g.pic_hd.jpg;
+intro:-fin-|【达成结局：假如这结局如你所愿】 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;

@@ -1,0 +1,3 @@
+
+{name}:“好，谢谢哥哥。”;
+changeScene:回家.txt;
